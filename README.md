@@ -13,12 +13,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi 👋, I'm Sofia
-## 🌆: About me:
-- 💻: I'm a web back-end developer .
-- 📍: I'm from Colombia.
-- 🌱 I’m currently learning Spring.
-- 🍒: Hobbies other than coding : dancing and cooking.
+
 
 ## :hammer_and_wrench: Languages and Tools:
 <p align="center"> 
